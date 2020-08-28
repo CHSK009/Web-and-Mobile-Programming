@@ -1,6 +1,6 @@
 # Web-and-Mobile-Programming
 
-This repository contains ICP related to web and mobile programming
+This repository contains ICP's related to web and mobile programming.
 
 
-It consists of source(code) and documentation folders(screenshots)
+It consists of source(code) and documentation folders(screenshots).
