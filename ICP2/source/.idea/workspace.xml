@@ -19,16 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b700fe-d9ca-4a8f-b79f-38d29b241c84" name="Default Changelist" comment="" />
+    <list default="true" id="baf7b158-d3fe-492f-88b6-8e76975da7e7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1gx38PwKh39rnpnvrYHyp3X4bkw" />
+  <component name="ProjectId" id="1hHShxW3CHTSBdMG6gznZDkjv6z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,14 +41,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44b700fe-d9ca-4a8f-b79f-38d29b241c84" name="Default Changelist" comment="" />
-      <created>1599042257124</created>
+      <changelist id="baf7b158-d3fe-492f-88b6-8e76975da7e7" name="Default Changelist" comment="" />
+      <created>1599666647239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599042257124</updated>
-      <workItem from="1599042258964" duration="487000" />
-      <workItem from="1599057460840" duration="7383000" />
-      <workItem from="1599259987288" duration="637000" />
+      <updated>1599666647239</updated>
+      <workItem from="1599666648758" duration="69000" />
     </task>
     <servers />
   </component>
@@ -65,6 +63,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
